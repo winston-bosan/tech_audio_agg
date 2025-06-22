@@ -4,11 +4,11 @@
 		<atom:link href="https://github.com/winston-bosan/tech_audio_agg" rel="self" type="application/rss+xml"/>
 		<title>RSS Caster: Favourite Blogs in Sound</title>
 		<pubDate>Sun, 22 Jun 2025 20:07:13 +0000</pubDate>
-		<lastBuildDate>Sun, 22 Jun 2025 20:34:15 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 22 Jun 2025 21:11:44 +0000</lastBuildDate>
 		<generator>RSS Caster</generator>
 		<link>https://github.com/winston-bosan/tech_audio_agg</link>
 		<language>en</language>
-		<itunes:summary><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from: https://samkriss.substack.com/feed]]></itunes:summary>
+		<itunes:summary><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 2 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed]]></itunes:summary>
 		<itunes:author>RSS Caster</itunes:author>
 		<itunes:keywords>rss,podcast,tts,automated,blogs,technology,aggregator</itunes:keywords>
 		<itunes:category text="Technology">
@@ -20,7 +20,7 @@
 			<itunes:name><![CDATA[RSS Caster]]></itunes:name>
 			<itunes:email>noreply@example.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from: https://samkriss.substack.com/feed]]></description>
+		<description><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 2 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed]]></description>
 		<itunes:type>episodic</itunes:type>
 		<podcast:locked owner="noreply@example.com">no</podcast:locked>
 
@@ -322,6 +322,306 @@ Original Article: https://samkriss.substack.com/p/numb-in-india-part-3-numb-in-p
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[In which I have a go at partitioning India again]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List for 06/21/2025</title>
+			<itunes:title>Reading List for 06/21/2025</itunes:title>
+			<pubDate>Sat, 21 Jun 2025 12:01:23 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-for-06212025]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-for-06212025]]></link>
+			<description><![CDATA[Construction Physics email stats, why appliances break so often, a special economic zone for Silicon valley, a river filtering pool, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-for-06212025]]></description>
+			<enclosure length="12689324" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List for 06_21_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Construction Physics email stats, why appliances break so often, a]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How Batteries Are Making the Electrical Grid More Reliable</title>
+			<itunes:title>How Batteries Are Making the Electrical Grid More Reliable</itunes:title>
+			<pubDate>Thu, 19 Jun 2025 12:02:34 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/batteries-are-making-the-electrical]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/batteries-are-making-the-electrical]]></link>
+			<description><![CDATA[To operate reliably, the US electrical grid needs to balance supply and demand: to make sure, at any given moment, that the amount of electricity demanded by homes, businesses, and factories is equal to the amount being supplied by nuclear reactors, gas turbines, and other types of power plants.
+
+Original Article: https://www.construction-physics.com/p/batteries-are-making-the-electrical]]></description>
+			<enclosure length="23007404" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How Batteries Are Making the Electrical Grid More Reliable.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[To operate reliably, the US electrical grid needs to balance]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List for 06/14/25</title>
+			<itunes:title>Reading List for 06/14/25</itunes:title>
+			<pubDate>Sat, 14 Jun 2025 12:02:20 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-for-061425]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-for-061425]]></link>
+			<description><![CDATA[Figure&#8217;s new humanoid robot demo, what it would take to create the data for a robot foundation model, &#8220;right to repair&#8221; on naval vessels, electricity costs and power laws, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-for-061425]]></description>
+			<enclosure length="10016684" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List for 06_14_25.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Figure&#8217;s new humanoid robot demo, what it would take to]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List for 06/07/2025</title>
+			<itunes:title>Reading List for 06/07/2025</itunes:title>
+			<pubDate>Sat, 07 Jun 2025 12:00:56 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-for-06072025]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-for-06072025]]></link>
+			<description><![CDATA[Risks to US battery storage, un-affordable affordable housing, a major Supreme Court NEPA ruling, making chip materials in space, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-for-06072025]]></description>
+			<enclosure length="6694316" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List for 06_07_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Risks to US battery storage, un-affordable affordable housing, a major]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How Common Is Multiple Invention?</title>
+			<itunes:title>How Common Is Multiple Invention?</itunes:title>
+			<pubDate>Thu, 05 Jun 2025 12:03:04 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/how-often-do-inventions-have-multiple]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/how-often-do-inventions-have-multiple]]></link>
+			<description><![CDATA[When Alexander Graham Bell filed a patent for the telephone on February 14th, 1876, he beat competing telephone developer Elisha Gray to the patent office by just a few hours.
+
+Original Article: https://www.construction-physics.com/p/how-often-do-inventions-have-multiple]]></description>
+			<enclosure length="18804524" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How Common Is Multiple Invention_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[When Alexander Graham Bell filed a patent for the telephone]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List for 05/31/2025</title>
+			<itunes:title>Reading List for 05/31/2025</itunes:title>
+			<pubDate>Sat, 31 May 2025 12:02:18 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-for-05312025]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-for-05312025]]></link>
+			<description><![CDATA[Wind wars, ALARA, power plant water use, grassroots opposition to data centers, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-for-05312025]]></description>
+			<enclosure length="8784812" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List for 05_31_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Wind wars, ALARA, power plant water use, grassroots opposition to]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Can We Afford Large-Scale Solar PV?</title>
+			<itunes:title>Can We Afford Large-Scale Solar PV?</itunes:title>
+			<pubDate>Thu, 29 May 2025 12:02:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/can-we-afford-large-scale-solar-pv]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/can-we-afford-large-scale-solar-pv]]></link>
+			<description><![CDATA[In the US solar energy has steadily risen in how much of our electricity it supplies.
+
+Original Article: https://www.construction-physics.com/p/can-we-afford-large-scale-solar-pv]]></description>
+			<enclosure length="8784812" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Can We Afford Large-Scale Solar PV_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In the US solar energy has steadily risen in how]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 05/24/25</title>
+			<itunes:title>Reading List 05/24/25</itunes:title>
+			<pubDate>Sat, 24 May 2025 12:01:45 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-052425]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-052425]]></link>
+			<description><![CDATA[Tulsa&#8217;s remote worker incentives, the &#8220;stolen iPhone building&#8221;, the Trump administration&#8217;s shipbuilding struggles, falling traffic law enforcement, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-052425]]></description>
+			<enclosure length="3803564" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 05_24_25.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tulsa&#8217;s remote worker incentives, the &#8220;stolen iPhone building&#8221;, the Trump]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Japan and the Birth of Modern Shipbuilding</title>
+			<itunes:title>Japan and the Birth of Modern Shipbuilding</itunes:title>
+			<pubDate>Thu, 22 May 2025 12:02:58 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding]]></link>
+			<description><![CDATA[How Japan invented modern shipbuilding, and conquered the shipbuilding industry in the process.
+
+Original Article: https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding]]></description>
+			<enclosure length="3803564" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Japan and the Birth of Modern Shipbuilding.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[How Japan invented modern shipbuilding, and conquered the shipbuilding industry]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List for 05/17/2025</title>
+			<itunes:title>Reading List for 05/17/2025</itunes:title>
+			<pubDate>Sat, 17 May 2025 12:02:39 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-051725]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-051725]]></link>
+			<description><![CDATA[The &#8220;Safe System&#8221; of road design, a manufactured &#8220;superwood&#8221;, concrete sphere batteries, Tesla&#8217;s insurance arm, the University of Nebraska&#8217;s drought monitor, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-051725]]></description>
+			<enclosure length="8784428" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List for 05_17_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The &#8220;Safe System&#8221; of road design, a manufactured &#8220;superwood&#8221;, concrete]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Improving Naval Ship Acquisition</title>
+			<itunes:title>Improving Naval Ship Acquisition</itunes:title>
+			<pubDate>Thu, 15 May 2025 12:02:39 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/fixing-naval-ship-acquisition]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/fixing-naval-ship-acquisition]]></link>
+			<description><![CDATA[This is a policy proposal written by Austin Vernon and myself for improving US naval shipbuilding.
+
+Original Article: https://www.construction-physics.com/p/fixing-naval-ship-acquisition]]></description>
+			<enclosure length="33959468" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Improving Naval Ship Acquisition.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This is a policy proposal written by Austin Vernon and]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 05/10/2025</title>
+			<itunes:title>Reading List 05/10/2025</itunes:title>
+			<pubDate>Sat, 10 May 2025 12:02:06 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-05102025]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-05102025]]></link>
+			<description><![CDATA[Amazon&#8217;s Vulcan robot, magnetohydrodynamic ship propulsion, Waymo&#8217;s manufacturing scale up, Boom Supersonic&#8217;s new super alloy, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-05102025]]></description>
+			<enclosure length="11194028" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 05_10_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Amazon&#8217;s Vulcan robot, magnetohydrodynamic ship propulsion, Waymo&#8217;s manufacturing scale up,]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How the US Built 5,000 Ships in WWII</title>
+			<itunes:title>How the US Built 5,000 Ships in WWII</itunes:title>
+			<pubDate>Wed, 07 May 2025 12:02:49 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii]]></link>
+			<description><![CDATA[Among the most impressive manufacturing achievements of the US during WWII was the number of ships it produced.
+
+Original Article: https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii]]></description>
+			<enclosure length="11194412" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How the US Built 5,000 Ships in WWII.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Among the most impressive manufacturing achievements of the US during]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 05/03/25</title>
+			<itunes:title>Reading List 05/03/25</itunes:title>
+			<pubDate>Sat, 03 May 2025 12:02:08 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-050325]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-050325]]></link>
+			<description><![CDATA[Blackout in Spain and Portugal, Chinese robot adoption, energy maneuverability theory, the Florida real estate market, battery manufacturing cancellations, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-050325]]></description>
+			<enclosure length="9468716" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 05_03_25.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Blackout in Spain and Portugal, Chinese robot adoption, energy maneuverability]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 04/26/25</title>
+			<itunes:title>Reading List 04/26/25</itunes:title>
+			<pubDate>Sat, 26 Apr 2025 12:00:44 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-042625]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-042625]]></link>
+			<description><![CDATA[Enhanced rock weathering, driverless trucks, Home Depot&#8217;s garden experiments, hydrogen airplanes, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-042625]]></description>
+			<enclosure length="6445484" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 04_26_25.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Enhanced rock weathering, driverless trucks, Home Depot&#8217;s garden experiments, hydrogen]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Robot Dexterity Still Seems Hard</title>
+			<itunes:title>Robot Dexterity Still Seems Hard</itunes:title>
+			<pubDate>Thu, 24 Apr 2025 12:18:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/robot-dexterity-still-seems-hard]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/robot-dexterity-still-seems-hard]]></link>
+			<description><![CDATA[You can&#8217;t throw a rock these days without hitting someone trying to build humanoid robots.
+
+Original Article: https://www.construction-physics.com/p/robot-dexterity-still-seems-hard]]></description>
+			<enclosure length="10016684" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Robot Dexterity Still Seems Hard.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[You can&#8217;t throw a rock these days without hitting someone]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 04/19/25</title>
+			<itunes:title>Reading List 04/19/25</itunes:title>
+			<pubDate>Sat, 19 Apr 2025 12:02:36 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-041925]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-041925]]></link>
+			<description><![CDATA[Astro Mechanica&#8217;s fundraising, BYD&#8217;s semiconductor division, drone deliveries in Texas, Starlink in Nigeria, an Alaskan volcano that might erupt, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-041925]]></description>
+			<enclosure length="6445484" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 04_19_25.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Astro Mechanica&#8217;s fundraising, BYD&#8217;s semiconductor division, drone deliveries in Texas,]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>50 Things I’ve Learned Writing Construction Physics</title>
+			<itunes:title>50 Things I’ve Learned Writing Construction Physics</itunes:title>
+			<pubDate>Thu, 17 Apr 2025 13:05:27 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/50-things-ive-learned-writing-construction]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/50-things-ive-learned-writing-construction]]></link>
+			<description><![CDATA[I&#8217;ve been writing Construction Physics since September of 2020.
+
+Original Article: https://www.construction-physics.com/p/50-things-ive-learned-writing-construction]]></description>
+			<enclosure length="12460460" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/50 Things I’ve Learned Writing Construction Physics.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[I&#8217;ve been writing Construction Physics since September of 2020.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reading List 04/12/2025</title>
+			<itunes:title>Reading List 04/12/2025</itunes:title>
+			<pubDate>Sat, 12 Apr 2025 12:02:38 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/reading-list-04122025]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/reading-list-04122025]]></link>
+			<description><![CDATA[Solar PV adoption in Pakistan, a sodium-ion battery startup closing up shop, Figure&#8217;s humanoid robot progress, an AI-based artillery targeting system, and more.
+
+Original Article: https://www.construction-physics.com/p/reading-list-04122025]]></description>
+			<enclosure length="6694700" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reading List 04_12_2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Solar PV adoption in Pakistan, a sodium-ion battery startup closing]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Understanding US Power Outages</title>
+			<itunes:title>Understanding US Power Outages</itunes:title>
+			<pubDate>Thu, 10 Apr 2025 12:03:21 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.construction-physics.com/p/understanding-us-power-outages]]></guid>
+			<link><![CDATA[https://www.construction-physics.com/p/understanding-us-power-outages]]></link>
+			<description><![CDATA[Modern civilization relies on electric power for almost everything, and even small disruptions to electric service are incredibly disruptive.
+
+Original Article: https://www.construction-physics.com/p/understanding-us-power-outages]]></description>
+			<enclosure length="12460844" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Understanding US Power Outages.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Modern civilization relies on electric power for almost everything, and]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
