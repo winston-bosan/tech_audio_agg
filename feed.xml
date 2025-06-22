@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://github.com/winston-bosan/tech_audio_agg" rel="self" type="application/rss+xml"/>
+		<title>RSS Caster: Favourite Blogs in Sound</title>
+		<pubDate>Sun, 22 Jun 2025 20:07:13 +0000</pubDate>
+		<lastBuildDate>Sun, 22 Jun 2025 20:10:11 +0000</lastBuildDate>
+		<generator>RSS Caster</generator>
+		<link>https://github.com/winston-bosan/tech_audio_agg</link>
+		<language>en</language>
+		<itunes:summary><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from: https://samkriss.substack.com/feed]]></itunes:summary>
+		<itunes:author>RSS Caster</itunes:author>
+		<itunes:keywords>rss,podcast,tts,automated,blogs,technology,aggregator</itunes:keywords>
+		<itunes:category text="Technology">
+		</itunes:category>
+		<itunes:category text="News">
+		</itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[RSS Caster]]></itunes:name>
+			<itunes:email>noreply@example.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from: https://samkriss.substack.com/feed]]></description>
+		<itunes:type>episodic</itunes:type>
+		<podcast:locked owner="noreply@example.com">no</podcast:locked>
+
+		<item>
+			<title>What is Europe?</title>
+			<itunes:title>What is Europe?</itunes:title>
+			<pubDate>Wed, 18 Jun 2025 12:25:30 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/what-is-europe]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/what-is-europe]]></link>
+			<description><![CDATA[A secret history of the world
+
+Original Article: https://samkriss.substack.com/p/what-is-europe]]></description>
+			<enclosure length="14612396" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What is Europe_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A secret history of the world]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Lessons in violence</title>
+			<itunes:title>Lessons in violence</itunes:title>
+			<pubDate>Sun, 08 Jun 2025 14:05:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/lessons-in-violence]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/lessons-in-violence]]></link>
+			<description><![CDATA[A hostage situation
+
+Original Article: https://samkriss.substack.com/p/lessons-in-violence]]></description>
+			<enclosure length="12629804" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Lessons in violence.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A hostage situation]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>An island of strangers</title>
+			<itunes:title>An island of strangers</itunes:title>
+			<pubDate>Mon, 26 May 2025 14:58:49 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/an-island-of-strangers]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/an-island-of-strangers]]></link>
+			<description><![CDATA[The end of England
+
+Original Article: https://samkriss.substack.com/p/an-island-of-strangers]]></description>
+			<enclosure length="8666924" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/An island of strangers.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The end of England]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Douglas Murray, gruesome toady</title>
+			<itunes:title>Douglas Murray, gruesome toady</itunes:title>
+			<pubDate>Sun, 11 May 2025 13:28:36 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/douglas-murray-gruesome-toady]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/douglas-murray-gruesome-toady]]></link>
+			<description><![CDATA[Reading the man without dignity
+
+Original Article: https://samkriss.substack.com/p/douglas-murray-gruesome-toady]]></description>
+			<enclosure length="30172844" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Douglas Murray, gruesome toady.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Reading the man without dignity]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Dreams never end</title>
+			<itunes:title>Dreams never end</itunes:title>
+			<pubDate>Mon, 28 Apr 2025 16:37:17 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/dreams-never-end]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/dreams-never-end]]></link>
+			<description><![CDATA[On Married at First Sight Australia
+
+Original Article: https://samkriss.substack.com/p/dreams-never-end]]></description>
+			<enclosure length="35494316" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Dreams never end.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On Married at First Sight Australia]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Ideologies of the near future</title>
+			<itunes:title>Ideologies of the near future</itunes:title>
+			<pubDate>Sun, 20 Apr 2025 13:09:31 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/ideologies-of-the-near-future]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/ideologies-of-the-near-future]]></link>
+			<description><![CDATA[We are in a gooey age, where all boundaries disappear
+
+Original Article: https://samkriss.substack.com/p/ideologies-of-the-near-future]]></description>
+			<enclosure length="15261740" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Ideologies of the near future.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We are in a gooey age, where all boundaries disappear]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Born in the wrong generation</title>
+			<itunes:title>Born in the wrong generation</itunes:title>
+			<pubDate>Sun, 06 Apr 2025 15:08:58 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/born-in-the-wrong-generation]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/born-in-the-wrong-generation]]></link>
+			<description><![CDATA[You have gone nowhere.
+
+Original Article: https://samkriss.substack.com/p/born-in-the-wrong-generation]]></description>
+			<enclosure length="15131948" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Born in the wrong generation.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[You have gone nowhere.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What year is it? A roundtable</title>
+			<itunes:title>What year is it? A roundtable</itunes:title>
+			<pubDate>Fri, 28 Mar 2025 15:27:29 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/what-year-is-it-a-roundtable]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/what-year-is-it-a-roundtable]]></link>
+			<description><![CDATA[Seven historical analogies for the age of Trump
+
+Original Article: https://samkriss.substack.com/p/what-year-is-it-a-roundtable]]></description>
+			<enclosure length="4575404" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What year is it_ A roundtable.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Seven historical analogies for the age of Trump]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The crab</title>
+			<itunes:title>The crab</itunes:title>
+			<pubDate>Wed, 19 Mar 2025 18:16:32 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/the-crab]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/the-crab]]></link>
+			<description><![CDATA[Ondine Sherwood 1959-2025
+
+Original Article: https://samkriss.substack.com/p/the-crab]]></description>
+			<enclosure length="30172460" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The crab.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Ondine Sherwood 1959-2025]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>A universal, absolute, and infinite theory of vibes</title>
+			<itunes:title>A universal, absolute, and infinite theory of vibes</itunes:title>
+			<pubDate>Sun, 02 Feb 2025 23:03:38 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/a-universal-absolute-and-infinite]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/a-universal-absolute-and-infinite]]></link>
+			<description><![CDATA[We have all been wearing hideous jeans, all the time
+
+Original Article: https://samkriss.substack.com/p/a-universal-absolute-and-infinite]]></description>
+			<enclosure length="44271020" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/A universal, absolute, and infinite theory of vibes.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We have all been wearing hideous jeans, all the time]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>There’s someone on the ice</title>
+			<itunes:title>There’s someone on the ice</itunes:title>
+			<pubDate>Sat, 18 Jan 2025 14:01:15 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/theres-someone-on-the-ice]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/theres-someone-on-the-ice]]></link>
+			<description><![CDATA[A gasp from the bottom of the world
+
+Original Article: https://samkriss.substack.com/p/theres-someone-on-the-ice]]></description>
+			<enclosure length="39147692" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/There’s someone on the ice.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A gasp from the bottom of the world]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Prophecies for 2025</title>
+			<itunes:title>Prophecies for 2025</itunes:title>
+			<pubDate>Sun, 05 Jan 2025 16:19:47 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/prophecies-for-2025]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/prophecies-for-2025]]></link>
+			<description><![CDATA[The winds of prophecy whisper strange whisperings into my ears
+
+Original Article: https://samkriss.substack.com/p/prophecies-for-2025]]></description>
+			<enclosure length="14198060" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Prophecies for 2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The winds of prophecy whisper strange whisperings into my ears]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, finale: The fire sermon</title>
+			<itunes:title>Numb in India, finale: The fire sermon</itunes:title>
+			<pubDate>Sun, 29 Dec 2024 12:06:46 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-finale-the-fire-sermon]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-finale-the-fire-sermon]]></link>
+			<description><![CDATA[On the burning in the eye and the burning in the world
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-finale-the-fire-sermon]]></description>
+			<enclosure length="17577644" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, finale_ The fire sermon.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On the burning in the eye and the burning in]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 8: Love is all and love is everyone</title>
+			<itunes:title>Numb in India, part 8: Love is all and love is everyone</itunes:title>
+			<pubDate>Wed, 11 Dec 2024 18:31:39 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-8-love-is-all]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-8-love-is-all]]></link>
+			<description><![CDATA[Digging through the ruins of the hippie dream
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-8-love-is-all]]></description>
+			<enclosure length="10117676" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 8_ Love is all and love is everyone.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Digging through the ruins of the hippie dream]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 7: Land of gloop</title>
+			<itunes:title>Numb in India, part 7: Land of gloop</itunes:title>
+			<pubDate>Thu, 28 Nov 2024 15:32:09 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-7-land-of-gloop]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-7-land-of-gloop]]></link>
+			<description><![CDATA[Why is India so poor? Why is India so lame?
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-7-land-of-gloop]]></description>
+			<enclosure length="12225836" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 7_ Land of gloop.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Why is India so poor? Why is India so lame?]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 6: The greater game</title>
+			<itunes:title>Numb in India, part 6: The greater game</itunes:title>
+			<pubDate>Mon, 18 Nov 2024 14:03:41 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-6-the-greater]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-6-the-greater]]></link>
+			<description><![CDATA[With gods and gangsters in the streets of Mumbai
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-6-the-greater]]></description>
+			<enclosure length="13228076" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 6_ The greater game.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[With gods and gangsters in the streets of Mumbai]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 5: Jai Shri TV</title>
+			<itunes:title>Numb in India, part 5: Jai Shri TV</itunes:title>
+			<pubDate>Sun, 10 Nov 2024 12:29:43 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-5-jai-shri-tv]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-5-jai-shri-tv]]></link>
+			<description><![CDATA[Hinduism as fandom, plus my pitch for the London Review of Gods
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-5-jai-shri-tv]]></description>
+			<enclosure length="4638380" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 5_ Jai Shri TV.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Hinduism as fandom, plus my pitch for the London Review]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>I told you so</title>
+			<itunes:title>I told you so</itunes:title>
+			<pubDate>Wed, 06 Nov 2024 14:46:32 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/i-told-you-so]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/i-told-you-so]]></link>
+			<description><![CDATA[How you lost the world, again
+
+Original Article: https://samkriss.substack.com/p/i-told-you-so]]></description>
+			<enclosure length="13391660" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/I told you so.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[How you lost the world, again]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 4: Dharma police</title>
+			<itunes:title>Numb in India, part 4: Dharma police</itunes:title>
+			<pubDate>Fri, 25 Oct 2024 13:28:29 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-4-dharma-police]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-4-dharma-police]]></link>
+			<description><![CDATA[Why the caste system is much weirder than you thought
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-4-dharma-police]]></description>
+			<enclosure length="36424748" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 4_ Dharma police.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Why the caste system is much weirder than you thought]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Numb in India, part 3: Numb in Pakistan</title>
+			<itunes:title>Numb in India, part 3: Numb in Pakistan</itunes:title>
+			<pubDate>Fri, 11 Oct 2024 11:01:06 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-3-numb-in-pakistan]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/numb-in-india-part-3-numb-in-pakistan]]></link>
+			<description><![CDATA[In which I have a go at partitioning India again
+
+Original Article: https://samkriss.substack.com/p/numb-in-india-part-3-numb-in-pakistan]]></description>
+			<enclosure length="6471980" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Numb in India, part 3_ Numb in Pakistan.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In which I have a go at partitioning India again]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
