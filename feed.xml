@@ -4,7 +4,7 @@
 		<atom:link href="https://github.com/winston-bosan/tech_audio_agg" rel="self" type="application/rss+xml"/>
 		<title>RSS Caster: Favourite Blogs in Sound</title>
 		<pubDate>Sun, 22 Jun 2025 20:07:13 +0000</pubDate>
-		<lastBuildDate>Thu, 26 Jun 2025 05:17:58 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 8 Jul 2025 02:52:32 +0000</lastBuildDate>
 		<generator>RSS Caster</generator>
 		<link>https://github.com/winston-bosan/tech_audio_agg</link>
 		<language>en</language>
@@ -922,6 +922,21 @@ Original Article: https://www.cremieux.xyz/p/grading-the-worlds-shortest-manifes
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[It gets an F and the student has earned the]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>In my zombie era</title>
+			<itunes:title>In my zombie era</itunes:title>
+			<pubDate>Wed, 02 Jul 2025 13:55:38 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://samkriss.substack.com/p/in-my-zombie-era]]></guid>
+			<link><![CDATA[https://samkriss.substack.com/p/in-my-zombie-era]]></link>
+			<description><![CDATA[The third stage of culture in the age of infinite information
+
+Original Article: https://samkriss.substack.com/p/in-my-zombie-era]]></description>
+			<enclosure length="14047140" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/In my zombie era.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The third stage of culture in the age of infinite]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
