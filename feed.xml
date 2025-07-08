@@ -4,11 +4,11 @@
 		<atom:link href="https://github.com/winston-bosan/tech_audio_agg" rel="self" type="application/rss+xml"/>
 		<title>RSS Caster: Favourite Blogs in Sound</title>
 		<pubDate>Sun, 22 Jun 2025 20:07:13 +0000</pubDate>
-		<lastBuildDate>Tue, 8 Jul 2025 02:52:32 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 8 Jul 2025 03:23:10 +0000</lastBuildDate>
 		<generator>RSS Caster</generator>
 		<link>https://github.com/winston-bosan/tech_audio_agg</link>
 		<language>en</language>
-		<itunes:summary><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 3 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed, https://www.cremieux.xyz/feed]]></itunes:summary>
+		<itunes:summary><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 8 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed, https://www.cremieux.xyz/feed, https://www.overcomingbias.com/feed, https://www.natesilver.net/feed, https://sarahconstantin.substack.com/feed, https://www.betonit.ai/feed, https://blog.ai-futures.org/feed]]></itunes:summary>
 		<itunes:author>RSS Caster</itunes:author>
 		<itunes:keywords>rss,podcast,tts,automated,blogs,technology,aggregator</itunes:keywords>
 		<itunes:category text="Technology">
@@ -20,7 +20,7 @@
 			<itunes:name><![CDATA[RSS Caster]]></itunes:name>
 			<itunes:email>noreply@example.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 3 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed, https://www.cremieux.xyz/feed]]></description>
+		<description><![CDATA[Automatically generated podcast aggregating favourite blogs using TTS. Currently featuring content from 8 sources including: https://samkriss.substack.com/feed, https://www.construction-physics.com/feed, https://www.cremieux.xyz/feed, https://www.overcomingbias.com/feed, https://www.natesilver.net/feed, https://sarahconstantin.substack.com/feed, https://www.betonit.ai/feed, https://blog.ai-futures.org/feed]]></description>
 		<itunes:type>episodic</itunes:type>
 		<podcast:locked owner="noreply@example.com">no</podcast:locked>
 
@@ -937,6 +937,1356 @@ Original Article: https://samkriss.substack.com/p/in-my-zombie-era]]></descripti
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[The third stage of culture in the age of infinite]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>3 Levels of Culture Fixes</title>
+			<itunes:title>3 Levels of Culture Fixes</itunes:title>
+			<pubDate>Sat, 05 Jul 2025 19:32:07 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/3-levels-of-culture-fixes]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/3-levels-of-culture-fixes]]></link>
+			<description><![CDATA[I see three levels at which we could try to fix cultural drift: specific cultural trends, cultural evolution process parameters, and meta mechanism/institutions.
+
+Original Article: https://www.overcomingbias.com/p/3-levels-of-culture-fixes]]></description>
+			<enclosure length="4367421" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/3 Levels of Culture Fixes.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[I see three levels at which we could try to]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Reason’s Overreach</title>
+			<itunes:title>Reason’s Overreach</itunes:title>
+			<pubDate>Tue, 01 Jul 2025 21:17:30 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/reasons-overreach]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/reasons-overreach]]></link>
+			<description><![CDATA[Our most basic and ancient system for learning the consequences of our actions is natural selection.
+
+Original Article: https://www.overcomingbias.com/p/reasons-overreach]]></description>
+			<enclosure length="3345045" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Reason’s Overreach.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Our most basic and ancient system for learning the consequences]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Why Modernist Value Changes?</title>
+			<itunes:title>Why Modernist Value Changes?</itunes:title>
+			<pubDate>Mon, 30 Jun 2025 02:44:09 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/why-modernist-value-changes]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/why-modernist-value-changes]]></link>
+			<description><![CDATA[Standard decision theory says that basic values should be constant, and not change when you learn new things about the world.
+
+Original Article: https://www.overcomingbias.com/p/why-modernist-value-changes]]></description>
+			<enclosure length="3825939" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Why Modernist Value Changes_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Standard decision theory says that basic values should be constant,]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How Adaptive Modern Fiction?</title>
+			<itunes:title>How Adaptive Modern Fiction?</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 20:13:25 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/how-adaptive-modern-fiction]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/how-adaptive-modern-fiction]]></link>
+			<description><![CDATA[By averaging estimates of ChatGPT 3, 4.5, I find that in these years typical people spent these hours per week consuming fiction and music:
+
+Original Article: https://www.overcomingbias.com/p/how-adaptive-modern-fiction]]></description>
+			<enclosure length="1600206" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How Adaptive Modern Fiction_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[By averaging estimates of ChatGPT 3, 4.5, I find that]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Seeing like a STEM</title>
+			<itunes:title>Seeing like a STEM</itunes:title>
+			<pubDate>Tue, 24 Jun 2025 14:11:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/seeing-like-a-stem]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/seeing-like-a-stem]]></link>
+			<description><![CDATA[In Seeing Like a State, James C.
+
+Original Article: https://www.overcomingbias.com/p/seeing-like-a-stem]]></description>
+			<enclosure length="1815408" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Seeing like a STEM.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In Seeing Like a State, James C.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Combos Cut Long-Shot Bias</title>
+			<itunes:title>Combos Cut Long-Shot Bias</itunes:title>
+			<pubDate>Mon, 23 Jun 2025 18:20:57 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/combos-cut-long-shot-bias]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/combos-cut-long-shot-bias]]></link>
+			<description><![CDATA[Simple betting markets have long suffered from a long-shot bias: long-shots chances are too high, while favorite chances are too low.
+
+Original Article: https://www.overcomingbias.com/p/combos-cut-long-shot-bias]]></description>
+			<enclosure length="2371026" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Combos Cut Long-Shot Bias.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Simple betting markets have long suffered from a long-shot bias:]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sexism Promoted Farmer Monogamy?</title>
+			<itunes:title>Sexism Promoted Farmer Monogamy?</itunes:title>
+			<pubDate>Sun, 22 Jun 2025 18:09:04 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/sexism-promoted-lifelong-monogamy]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/sexism-promoted-lifelong-monogamy]]></link>
+			<description><![CDATA[Compared to farmers, foragers were more egalitarian and had more communal property, food-sharing, and child-rearing.
+
+Original Article: https://www.overcomingbias.com/p/sexism-promoted-lifelong-monogamy]]></description>
+			<enclosure length="1983219" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Sexism Promoted Farmer Monogamy_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Compared to farmers, foragers were more egalitarian and had more]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Decision Conditional Prices Reflect Causal Chances</title>
+			<itunes:title>Decision Conditional Prices Reflect Causal Chances</itunes:title>
+			<pubDate>Tue, 17 Jun 2025 11:08:23 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/decision-conditional-prices-reflect]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/decision-conditional-prices-reflect]]></link>
+			<description><![CDATA[A common complaint about futarchy (see also):
+
+Original Article: https://www.overcomingbias.com/p/decision-conditional-prices-reflect]]></description>
+			<enclosure length="3663714" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Decision Conditional Prices Reflect Causal Chances.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A common complaint about futarchy (see also):]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Futarchy Liquidity Details</title>
+			<itunes:title>Futarchy Liquidity Details</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 16:14:30 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/futarchy-liquidity-details]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/futarchy-liquidity-details]]></link>
+			<description><![CDATA[The simple story about decision market liquidity is: such markets need an expectation of liquidity to induce traders to reveal info there, so that prices can usefully inform decisions.
+
+Original Article: https://www.overcomingbias.com/p/futarchy-liquidity-details]]></description>
+			<enclosure length="4790700" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Futarchy Liquidity Details.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The simple story about decision market liquidity is: such markets]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>A Virtuous Governance Cycle</title>
+			<itunes:title>A Virtuous Governance Cycle</itunes:title>
+			<pubDate>Tue, 10 Jun 2025 18:23:44 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/a-virtuous-governance-cycle]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/a-virtuous-governance-cycle]]></link>
+			<description><![CDATA[&#8220;The greatest punishment, if one isn&#8217;t willing to rule, is to be ruled by someone worse than oneself.
+
+Original Article: https://www.overcomingbias.com/p/a-virtuous-governance-cycle]]></description>
+			<enclosure length="1558812" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/A Virtuous Governance Cycle.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[&#8220;The greatest punishment, if one isn&#8217;t willing to rule, is]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Dangers of Competent Governance</title>
+			<itunes:title>Dangers of Competent Governance</itunes:title>
+			<pubDate>Mon, 02 Jun 2025 13:09:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/dangers-of-competent-governance]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/dangers-of-competent-governance]]></link>
+			<description><![CDATA[In most places, most areas of life are dominated either by competition between multiple units, or by the governance of a single organization.
+
+Original Article: https://www.overcomingbias.com/p/dangers-of-competent-governance]]></description>
+			<enclosure length="2741793" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Dangers of Competent Governance.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In most places, most areas of life are dominated either]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Intuitions Have Context</title>
+			<itunes:title>Intuitions Have Context</itunes:title>
+			<pubDate>Fri, 30 May 2025 23:10:06 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/intuitions-have-context]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/intuitions-have-context]]></link>
+			<description><![CDATA[By living in our world, we collect intuitions on how the physical stuff around us behaves, and on the most practical ways to do particular things.
+
+Original Article: https://www.overcomingbias.com/p/intuitions-have-context]]></description>
+			<enclosure length="2055141" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Intuitions Have Context.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[By living in our world, we collect intuitions on how]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Stories Are Behavior, Explained</title>
+			<itunes:title>Stories Are Behavior, Explained</itunes:title>
+			<pubDate>Thu, 29 May 2025 15:52:56 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/stories-are-behavior-understood]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/stories-are-behavior-understood]]></link>
+			<description><![CDATA[Stories describe stuff that happens, in patterns that feel understandable to reader/viewers.
+
+Original Article: https://www.overcomingbias.com/p/stories-are-behavior-understood]]></description>
+			<enclosure length="1343964" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Stories Are Behavior, Explained.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Stories describe stuff that happens, in patterns that feel understandable]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>My Complaint Re Academia</title>
+			<itunes:title>My Complaint Re Academia</itunes:title>
+			<pubDate>Wed, 21 May 2025 19:50:15 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/my-complaint-re-academia]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/my-complaint-re-academia]]></link>
+			<description><![CDATA[If you want to get paid for abstract analysis that is not mainly organized around current cultural or political fights, academia is pretty much the only game in town.
+
+Original Article: https://www.overcomingbias.com/p/my-complaint-re-academia]]></description>
+			<enclosure length="1265949" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/My Complaint Re Academia.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[If you want to get paid for abstract analysis that]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Key Gadget: Pro-Equilibria Norms</title>
+			<itunes:title>Key Gadget: Pro-Equilibria Norms</itunes:title>
+			<pubDate>Sun, 18 May 2025 14:09:02 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/key-gadget-pro-equilibria-norms]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/key-gadget-pro-equilibria-norms]]></link>
+			<description><![CDATA[Fill a plane with chimps, and most might be dead before it lands.
+
+Original Article: https://www.overcomingbias.com/p/key-gadget-pro-equilibria-norms]]></description>
+			<enclosure length="2596491" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Key Gadget_ Pro-Equilibria Norms.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fill a plane with chimps, and most might be dead]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Politics and Culture</title>
+			<itunes:title>Politics and Culture</itunes:title>
+			<pubDate>Fri, 16 May 2025 01:11:51 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/politics-and-culture]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/politics-and-culture]]></link>
+			<description><![CDATA[Though I got my PhD in formal political theory and spent the last year studying culture, I didn&#8217;t until a few days ago notice the big connections between politics and culture.
+
+Original Article: https://www.overcomingbias.com/p/politics-and-culture]]></description>
+			<enclosure length="838419" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Politics and Culture.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Though I got my PhD in formal political theory and]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Choice At Different Abstraction Levels</title>
+			<itunes:title>Choice At Different Abstraction Levels</itunes:title>
+			<pubDate>Mon, 12 May 2025 18:26:07 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/choice-at-different-abstraction-levels]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/choice-at-different-abstraction-levels]]></link>
+			<description><![CDATA[I just noticed an interesting question that I&#8217;ve never heard anyone ask.
+
+Original Article: https://www.overcomingbias.com/p/choice-at-different-abstraction-levels]]></description>
+			<enclosure length="3293496" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Choice At Different Abstraction Levels.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[I just noticed an interesting question that I&#8217;ve never heard]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Advisory Futarchy</title>
+			<itunes:title>Advisory Futarchy</itunes:title>
+			<pubDate>Sun, 11 May 2025 16:44:48 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/advisory-futarchy]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/advisory-futarchy]]></link>
+			<description><![CDATA[Me April 2:
+
+Original Article: https://www.overcomingbias.com/p/advisory-futarchy]]></description>
+			<enclosure length="1679676" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Advisory Futarchy.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Me April 2:]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Details Avoid Bias</title>
+			<itunes:title>Details Avoid Bias</itunes:title>
+			<pubDate>Thu, 08 May 2025 14:04:59 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/details-avoid-bias]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/details-avoid-bias]]></link>
+			<description><![CDATA[Long ago I noted:
+
+Original Article: https://www.overcomingbias.com/p/details-avoid-bias]]></description>
+			<enclosure length="644811" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Details Avoid Bias.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Long ago I noted:]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sincerity Adds To Drift</title>
+			<itunes:title>Sincerity Adds To Drift</itunes:title>
+			<pubDate>Wed, 07 May 2025 00:54:30 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.overcomingbias.com/p/sincerity-adds-to-drift]]></guid>
+			<link><![CDATA[https://www.overcomingbias.com/p/sincerity-adds-to-drift]]></link>
+			<description><![CDATA[The 2008 book Ritual and Its Consequences: An Essay on the Limits of Sincerity is hard for me to understand, but I&#8217;ve been trying to figure it out, as the concepts it considers seem interesti...
+
+Original Article: https://www.overcomingbias.com/p/sincerity-adds-to-drift]]></description>
+			<enclosure length="3291792" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Sincerity Adds To Drift.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The 2008 book Ritual and Its Consequences: An Essay on]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How popular is Donald Trump?</title>
+			<itunes:title>How popular is Donald Trump?</itunes:title>
+			<pubDate>Mon, 07 Jul 2025 21:40:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin]]></link>
+			<description><![CDATA[Silver Bulletin approval ratings for President Trump &#8212; and all presidents since Truman.
+
+Original Article: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin]]></description>
+			<enclosure length="3802158" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How popular is Donald Trump_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Silver Bulletin approval ratings for President Trump &#8212; and all]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How popular is Elon Musk?</title>
+			<itunes:title>How popular is Elon Musk?</itunes:title>
+			<pubDate>Mon, 07 Jul 2025 21:35:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin]]></link>
+			<description><![CDATA[Silver Bulletin favorability ratings for the world's richest man.
+
+Original Article: https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin]]></description>
+			<enclosure length="3797406" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How popular is Elon Musk_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Silver Bulletin favorability ratings for the world's richest man.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Can Elon&#39;s America Party succeed where others have failed?</title>
+			<itunes:title>Can Elon&#39;s America Party succeed where others have failed?</itunes:title>
+			<pubDate>Mon, 07 Jul 2025 17:09:07 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/can-elons-america-party-succeed-where]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/can-elons-america-party-succeed-where]]></link>
+			<description><![CDATA[Probably not.
+
+Original Article: https://www.natesilver.net/p/can-elons-america-party-succeed-where]]></description>
+			<enclosure length="3154014" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Can Elon&#39;s America Party succeed where others have failed_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Probably not.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The two theories of Zohran</title>
+			<itunes:title>The two theories of Zohran</itunes:title>
+			<pubDate>Tue, 01 Jul 2025 20:00:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/the-two-theories-of-zohran]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/the-two-theories-of-zohran]]></link>
+			<description><![CDATA[A chat with Derek Thompson from A (Abundance) to Z (Zohran).
+
+Original Article: https://www.natesilver.net/p/the-two-theories-of-zohran]]></description>
+			<enclosure length="9835323" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The two theories of Zohran.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A chat with Derek Thompson from A (Abundance) to Z]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Did the Thunder get too good, too fast?</title>
+			<itunes:title>Did the Thunder get too good, too fast?</itunes:title>
+			<pubDate>Sat, 28 Jun 2025 19:06:54 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/did-the-thunder-get-too-good-too]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/did-the-thunder-get-too-good-too]]></link>
+			<description><![CDATA[No NBA team has gone from zero to dominant this quickly.
+
+Original Article: https://www.natesilver.net/p/did-the-thunder-get-too-good-too]]></description>
+			<enclosure length="10994757" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Did the Thunder get too good, too fast_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[No NBA team has gone from zero to dominant this]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How Zohran expanded the electorate</title>
+			<itunes:title>How Zohran expanded the electorate</itunes:title>
+			<pubDate>Thu, 26 Jun 2025 19:33:31 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/how-zohran-expanded-the-electorate]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/how-zohran-expanded-the-electorate]]></link>
+			<description><![CDATA[A chat with Michael Lange and Galen Druke on a seismic mayoral race.
+
+Original Article: https://www.natesilver.net/p/how-zohran-expanded-the-electorate]]></description>
+			<enclosure length="131346" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How Zohran expanded the electorate.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A chat with Michael Lange and Galen Druke on a]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Zohran delivered the Democratic establishment the thrashing it deserved</title>
+			<itunes:title>Zohran delivered the Democratic establishment the thrashing it deserved</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 07:31:01 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/zohran-delivered-the-democratic-establishment]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/zohran-delivered-the-democratic-establishment]]></link>
+			<description><![CDATA[It backed another tired, entitled candidate in Andrew Cuomo.
+
+Original Article: https://www.natesilver.net/p/zohran-delivered-the-democratic-establishment]]></description>
+			<enclosure length="9838899" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Zohran delivered the Democratic establishment the thrashing it deserved.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It backed another tired, entitled candidate in Andrew Cuomo.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What explains the liberal-conservative happiness gap?</title>
+			<itunes:title>What explains the liberal-conservative happiness gap?</itunes:title>
+			<pubDate>Wed, 18 Jun 2025 20:57:10 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/what-explains-the-liberal-conservative]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/what-explains-the-liberal-conservative]]></link>
+			<description><![CDATA[A spinoff post from my Substack Live with Mike Pesca.
+
+Original Article: https://www.natesilver.net/p/what-explains-the-liberal-conservative]]></description>
+			<enclosure length="7146540" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What explains the liberal-conservative happiness gap_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A spinoff post from my Substack Live with Mike Pesca.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How the electoral math flipped against Democrats</title>
+			<itunes:title>How the electoral math flipped against Democrats</itunes:title>
+			<pubDate>Tue, 17 Jun 2025 22:23:16 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/how-the-electoral-math-flipped-against]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/how-the-electoral-math-flipped-against]]></link>
+			<description><![CDATA[Demographics aren&#8217;t destiny.
+
+Original Article: https://www.natesilver.net/p/how-the-electoral-math-flipped-against]]></description>
+			<enclosure length="4476948" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How the electoral math flipped against Democrats.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Demographics aren&#8217;t destiny.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The metaphor that explains American politics</title>
+			<itunes:title>The metaphor that explains American politics</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 20:19:04 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/the-metaphor-that-explains-american]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/the-metaphor-that-explains-american]]></link>
+			<description><![CDATA[What is a Shepard tone, and what does it tell us about Trump? Plus, my Substack Live with Galen Druke.
+
+Original Article: https://www.natesilver.net/p/the-metaphor-that-explains-american]]></description>
+			<enclosure length="10991877" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The metaphor that explains American politics.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What is a Shepard tone, and what does it tell]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Can anyone beat Cuomo? And is it Zohran?</title>
+			<itunes:title>Can anyone beat Cuomo? And is it Zohran?</itunes:title>
+			<pubDate>Tue, 10 Jun 2025 19:22:46 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/can-anyone-beat-cuomo-and-is-it-zohran]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/can-anyone-beat-cuomo-and-is-it-zohran]]></link>
+			<description><![CDATA[Zohran Mamdani has made the NYC mayoral primary competitive.
+
+Original Article: https://www.natesilver.net/p/can-anyone-beat-cuomo-and-is-it-zohran]]></description>
+			<enclosure length="6558339" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Can anyone beat Cuomo_ And is it Zohran_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Zohran Mamdani has made the NYC mayoral primary competitive.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>17 thoughts on the Trump-Elon feud</title>
+			<itunes:title>17 thoughts on the Trump-Elon feud</itunes:title>
+			<pubDate>Thu, 05 Jun 2025 21:52:55 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/17-thoughts-on-the-trump-elon-feud]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/17-thoughts-on-the-trump-elon-feud]]></link>
+			<description><![CDATA[This was nothing if not predictable.
+
+Original Article: https://www.natesilver.net/p/17-thoughts-on-the-trump-elon-feud]]></description>
+			<enclosure length="4591584" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/17 thoughts on the Trump-Elon feud.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This was nothing if not predictable.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>When should you fire your coach?</title>
+			<itunes:title>When should you fire your coach?</itunes:title>
+			<pubDate>Wed, 04 Jun 2025 21:35:59 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/when-should-you-fire-your-coach]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/when-should-you-fire-your-coach]]></link>
+			<description><![CDATA[The Knicks just had their best season in 25 years.
+
+Original Article: https://www.natesilver.net/p/when-should-you-fire-your-coach]]></description>
+			<enclosure length="6264048" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/When should you fire your coach_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The Knicks just had their best season in 25 years.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>SBSQ #21: Why young men don&#39;t like Democrats</title>
+			<itunes:title>SBSQ #21: Why young men don&#39;t like Democrats</itunes:title>
+			<pubDate>Mon, 02 Jun 2025 18:49:33 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/sbsq-21-why-young-men-dont-like-democrats]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/sbsq-21-why-young-men-dont-like-democrats]]></link>
+			<description><![CDATA[Plus, the New York City mayor&#8217;s race &#8212; and whether win probability models are broken.
+
+Original Article: https://www.natesilver.net/p/sbsq-21-why-young-men-dont-like-democrats]]></description>
+			<enclosure length="9844299" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/SBSQ #21_ Why young men don&#39;t like Democrats.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Plus, the New York City mayor&#8217;s race &#8212; and whether]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Turnout didn’t cost Kamala Harris the election</title>
+			<itunes:title>Turnout didn’t cost Kamala Harris the election</itunes:title>
+			<pubDate>Wed, 28 May 2025 18:01:47 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/turnout-didnt-cost-kamala-harris]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/turnout-didnt-cost-kamala-harris]]></link>
+			<description><![CDATA[In fact, marginal voters preferred Trump.
+
+Original Article: https://www.natesilver.net/p/turnout-didnt-cost-kamala-harris]]></description>
+			<enclosure length="4476492" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Turnout didn’t cost Kamala Harris the election.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In fact, marginal voters preferred Trump.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>25 tips for acing the World Series of Poker</title>
+			<itunes:title>25 tips for acing the World Series of Poker</itunes:title>
+			<pubDate>Mon, 26 May 2025 18:54:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/21-tips-for-acing-the-world-series]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/21-tips-for-acing-the-world-series]]></link>
+			<description><![CDATA[Newly updated for 2025.
+
+Original Article: https://www.natesilver.net/p/21-tips-for-acing-the-world-series]]></description>
+			<enclosure length="13217778" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/25 tips for acing the World Series of Poker.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Newly updated for 2025.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>ChatGPT is shockingly bad at poker</title>
+			<itunes:title>ChatGPT is shockingly bad at poker</itunes:title>
+			<pubDate>Wed, 21 May 2025 21:37:19 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/chatgpt-is-shockingly-bad-at-poker]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/chatgpt-is-shockingly-bad-at-poker]]></link>
+			<description><![CDATA[I&#8217;m impressed by large language models.
+
+Original Article: https://www.natesilver.net/p/chatgpt-is-shockingly-bad-at-poker]]></description>
+			<enclosure length="5863533" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/ChatGPT is shockingly bad at poker.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[I&#8217;m impressed by large language models.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>How I learned to love the New York Knicks</title>
+			<itunes:title>How I learned to love the New York Knicks</itunes:title>
+			<pubDate>Sun, 18 May 2025 18:53:25 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/how-i-learned-to-love-the-new-york]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/how-i-learned-to-love-the-new-york]]></link>
+			<description><![CDATA[Everyone loves an underdog story.
+
+Original Article: https://www.natesilver.net/p/how-i-learned-to-love-the-new-york]]></description>
+			<enclosure length="6276081" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/How I learned to love the New York Knicks.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Everyone loves an underdog story.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Did the media blow it on Biden?</title>
+			<itunes:title>Did the media blow it on Biden?</itunes:title>
+			<pubDate>Thu, 15 May 2025 17:58:32 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/did-the-media-blow-it-on-biden]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/did-the-media-blow-it-on-biden]]></link>
+			<description><![CDATA[The fight for the nomination between Biden and Kamala Harris was covered extensively.
+
+Original Article: https://www.natesilver.net/p/did-the-media-blow-it-on-biden]]></description>
+			<enclosure length="8883264" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Did the media blow it on Biden_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The fight for the nomination between Biden and Kamala Harris]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Can Democrats really win the Senate in 2026?</title>
+			<itunes:title>Can Democrats really win the Senate in 2026?</itunes:title>
+			<pubDate>Mon, 12 May 2025 15:26:36 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.natesilver.net/p/can-democrats-really-win-the-senate]]></guid>
+			<link><![CDATA[https://www.natesilver.net/p/can-democrats-really-win-the-senate]]></link>
+			<description><![CDATA[Their math isn&#8217;t as bad as you might think &#8212; if they find the right candidates.
+
+Original Article: https://www.natesilver.net/p/can-democrats-really-win-the-senate]]></description>
+			<enclosure length="1717656" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Can Democrats really win the Senate in 2026_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Their math isn&#8217;t as bad as you might think &#8212;]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Making Sense of Consciousness Part 2: Attention</title>
+			<itunes:title>Making Sense of Consciousness Part 2: Attention</itunes:title>
+			<pubDate>Thu, 03 Jul 2025 21:12:06 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part-f59]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part-f59]]></link>
+			<description><![CDATA[The difference between what we notice and what we don't
+
+Original Article: https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part-f59]]></description>
+			<enclosure length="7961889" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Making Sense of Consciousness Part 2_ Attention.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The difference between what we notice and what we don't]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Making Sense of Consciousness Part 1: Perceptual Awareness</title>
+			<itunes:title>Making Sense of Consciousness Part 1: Perceptual Awareness</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 21:03:26 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part]]></link>
+			<description><![CDATA[a noob reads neuro
+
+Original Article: https://sarahconstantin.substack.com/p/making-sense-of-consciousness-part]]></description>
+			<enclosure length="7964193" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Making Sense of Consciousness Part 1_ Perceptual Awareness.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[a noob reads neuro]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Tech for Thinking</title>
+			<itunes:title>Tech for Thinking</itunes:title>
+			<pubDate>Mon, 23 Jun 2025 19:15:24 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/tech-for-thinking]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/tech-for-thinking]]></link>
+			<description><![CDATA[who's working on it? and seriously, can we come up with a better name?
+
+Original Article: https://sarahconstantin.substack.com/p/tech-for-thinking]]></description>
+			<enclosure length="1864374" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Tech for Thinking.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[who's working on it? and seriously, can we come up]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Broad-Spectrum Cancer Treatments</title>
+			<itunes:title>Broad-Spectrum Cancer Treatments</itunes:title>
+			<pubDate>Tue, 03 Jun 2025 19:30:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/broad-spectrum-cancer-treatments]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/broad-spectrum-cancer-treatments]]></link>
+			<description><![CDATA[A proposal for a research program
+
+Original Article: https://sarahconstantin.substack.com/p/broad-spectrum-cancer-treatments]]></description>
+			<enclosure length="10441167" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Broad-Spectrum Cancer Treatments.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A proposal for a research program]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Who&#39;s Working On It? AI-Controlled Experiments</title>
+			<itunes:title>Who&#39;s Working On It? AI-Controlled Experiments</itunes:title>
+			<pubDate>Fri, 25 Apr 2025 21:34:21 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/whos-working-on-it-ai-controlled]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/whos-working-on-it-ai-controlled]]></link>
+			<description><![CDATA[A real "AI Scientist" would generate new data
+
+Original Article: https://sarahconstantin.substack.com/p/whos-working-on-it-ai-controlled]]></description>
+			<enclosure length="1555191" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Who&#39;s Working On It_ AI-Controlled Experiments.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A real "AI Scientist" would generate new data]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Uses of Complacency</title>
+			<itunes:title>The Uses of Complacency</itunes:title>
+			<pubDate>Mon, 21 Apr 2025 18:44:17 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/the-uses-of-complacency]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/the-uses-of-complacency]]></link>
+			<description><![CDATA[The optimal amount of self-satisfaction is not zero
+
+Original Article: https://sarahconstantin.substack.com/p/the-uses-of-complacency]]></description>
+			<enclosure length="8412240" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The Uses of Complacency.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The optimal amount of self-satisfaction is not zero]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Prodromes and Biomarkers in Chronic Disease</title>
+			<itunes:title>Prodromes and Biomarkers in Chronic Disease</itunes:title>
+			<pubDate>Wed, 16 Apr 2025 21:24:33 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/prodromes-and-biomarkers-in-chronic]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/prodromes-and-biomarkers-in-chronic]]></link>
+			<description><![CDATA[Can we treat the "untreatable" by catching it before it's diagnosed?
+
+Original Article: https://sarahconstantin.substack.com/p/prodromes-and-biomarkers-in-chronic]]></description>
+			<enclosure length="3275040" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Prodromes and Biomarkers in Chronic Disease.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Can we treat the "untreatable" by catching it before it's]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>FW25 Color Stats</title>
+			<itunes:title>FW25 Color Stats</itunes:title>
+			<pubDate>Tue, 25 Mar 2025 18:36:41 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/fw25-color-stats]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/fw25-color-stats]]></link>
+			<description><![CDATA[Another season, another reason, for counting colors
+
+Original Article: https://sarahconstantin.substack.com/p/fw25-color-stats]]></description>
+			<enclosure length="2313444" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/FW25 Color Stats.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Another season, another reason, for counting colors]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>AI &quot;Deep Research&quot; Tools Reviewed</title>
+			<itunes:title>AI &quot;Deep Research&quot; Tools Reviewed</itunes:title>
+			<pubDate>Mon, 24 Mar 2025 18:35:08 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/ai-deep-research-tools-reviewed]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/ai-deep-research-tools-reviewed]]></link>
+			<description><![CDATA[How do they stack up?
+
+Original Article: https://sarahconstantin.substack.com/p/ai-deep-research-tools-reviewed]]></description>
+			<enclosure length="5345592" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/AI _Deep Research_ Tools Reviewed.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[How do they stack up?]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Book Review: Affective Neuroscience</title>
+			<itunes:title>Book Review: Affective Neuroscience</itunes:title>
+			<pubDate>Mon, 10 Mar 2025 06:41:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/book-review-affective-neuroscience]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/book-review-affective-neuroscience]]></link>
+			<description><![CDATA[What rats can tell us about feelings
+
+Original Article: https://sarahconstantin.substack.com/p/book-review-affective-neuroscience]]></description>
+			<enclosure length="14306169" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Book Review_ Affective Neuroscience.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What rats can tell us about feelings]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What&#39;s Behind the SynBio Bust?</title>
+			<itunes:title>What&#39;s Behind the SynBio Bust?</itunes:title>
+			<pubDate>Thu, 30 Jan 2025 22:22:22 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/whats-behind-the-synbio-bust]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/whats-behind-the-synbio-bust]]></link>
+			<description><![CDATA[And what lessons can we learn?
+
+Original Article: https://sarahconstantin.substack.com/p/whats-behind-the-synbio-bust]]></description>
+			<enclosure length="8187801" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What&#39;s Behind the SynBio Bust_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[And what lessons can we learn?]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What Goes Without Saying</title>
+			<itunes:title>What Goes Without Saying</itunes:title>
+			<pubDate>Fri, 20 Dec 2024 17:52:14 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/what-goes-without-saying]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/what-goes-without-saying]]></link>
+			<description><![CDATA[a little rant
+
+Original Article: https://sarahconstantin.substack.com/p/what-goes-without-saying]]></description>
+			<enclosure length="5045337" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What Goes Without Saying.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[a little rant]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Dream Machine</title>
+			<itunes:title>The Dream Machine</itunes:title>
+			<pubDate>Wed, 04 Dec 2024 23:48:13 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/the-dream-machine]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/the-dream-machine]]></link>
+			<description><![CDATA[Let me tell you a little bit about my new job
+
+Original Article: https://sarahconstantin.substack.com/p/the-dream-machine]]></description>
+			<enclosure length="13331292" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The Dream Machine.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Let me tell you a little bit about my new]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Neutrality</title>
+			<itunes:title>Neutrality</itunes:title>
+			<pubDate>Wed, 13 Nov 2024 23:03:45 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/neutrality]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/neutrality]]></link>
+			<description><![CDATA[towards a system of the world
+
+Original Article: https://sarahconstantin.substack.com/p/neutrality]]></description>
+			<enclosure length="1863822" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Neutrality.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[towards a system of the world]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Bigger Livers?</title>
+			<itunes:title>Bigger Livers?</itunes:title>
+			<pubDate>Fri, 08 Nov 2024 21:41:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/bigger-livers]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/bigger-livers]]></link>
+			<description><![CDATA[The other kind of lean body mass
+
+Original Article: https://sarahconstantin.substack.com/p/bigger-livers]]></description>
+			<enclosure length="8057340" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Bigger Livers_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The other kind of lean body mass]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Join my new subscriber chat</title>
+			<itunes:title>Join my new subscriber chat</itunes:title>
+			<pubDate>Wed, 06 Nov 2024 02:19:24 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/join-my-new-subscriber-chat]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/join-my-new-subscriber-chat]]></link>
+			<description><![CDATA[A private space for us to converse and connect
+
+Original Article: https://sarahconstantin.substack.com/p/join-my-new-subscriber-chat]]></description>
+			<enclosure length="463920" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Join my new subscriber chat.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A private space for us to converse and connect]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Metastatic Cancer Treatment Since 2010: The Success Stories</title>
+			<itunes:title>Metastatic Cancer Treatment Since 2010: The Success Stories</itunes:title>
+			<pubDate>Mon, 04 Nov 2024 22:45:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/metastatic-cancer-treatment-since]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/metastatic-cancer-treatment-since]]></link>
+			<description><![CDATA[A (semi) systematic review
+
+Original Article: https://sarahconstantin.substack.com/p/metastatic-cancer-treatment-since]]></description>
+			<enclosure length="6697116" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Metastatic Cancer Treatment Since 2010_ The Success Stories.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A (semi) systematic review]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Thinking in 2D</title>
+			<itunes:title>Thinking in 2D</itunes:title>
+			<pubDate>Sun, 20 Oct 2024 19:27:48 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/thinking-in-2d]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/thinking-in-2d]]></link>
+			<description><![CDATA[a work in progress
+
+Original Article: https://sarahconstantin.substack.com/p/thinking-in-2d]]></description>
+			<enclosure length="8415711" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Thinking in 2D.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[a work in progress]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>2025 Color Trends</title>
+			<itunes:title>2025 Color Trends</itunes:title>
+			<pubDate>Mon, 07 Oct 2024 21:11:54 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/2025-color-trends]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/2025-color-trends]]></link>
+			<description><![CDATA[It's that time of year again
+
+Original Article: https://sarahconstantin.substack.com/p/2025-color-trends]]></description>
+			<enclosure length="2314164" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/2025 Color Trends.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It's that time of year again]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Marine Carbon Dioxide Removal</title>
+			<itunes:title>Marine Carbon Dioxide Removal</itunes:title>
+			<pubDate>Fri, 27 Sep 2024 21:38:10 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://sarahconstantin.substack.com/p/marine-carbon-dioxide-removal]]></guid>
+			<link><![CDATA[https://sarahconstantin.substack.com/p/marine-carbon-dioxide-removal]]></link>
+			<description><![CDATA[Should we be taking CO2 out of the atmosphere and putting it in the oceans?
+
+Original Article: https://sarahconstantin.substack.com/p/marine-carbon-dioxide-removal]]></description>
+			<enclosure length="10265991" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Marine Carbon Dioxide Removal.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Should we be taking CO2 out of the atmosphere and]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Ethics and Insecticide</title>
+			<itunes:title>Ethics and Insecticide</itunes:title>
+			<pubDate>Mon, 07 Jul 2025 15:28:20 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/ethics-and-insecticide]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/ethics-and-insecticide]]></link>
+			<description><![CDATA[Prologue to commentary on Adelstein and Huemer
+
+Original Article: https://www.betonit.ai/p/ethics-and-insecticide]]></description>
+			<enclosure length="1861056" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Ethics and Insecticide.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Prologue to commentary on Adelstein and Huemer]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Great Means-Testing Debate</title>
+			<itunes:title>The Great Means-Testing Debate</itunes:title>
+			<pubDate>Thu, 03 Jul 2025 15:01:42 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/the-great-means-testing-debate]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/the-great-means-testing-debate]]></link>
+			<description><![CDATA[Milton Friedman versus Wilbur Cohen
+
+Original Article: https://www.betonit.ai/p/the-great-means-testing-debate]]></description>
+			<enclosure length="914109" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The Great Means-Testing Debate.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Milton Friedman versus Wilbur Cohen]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Life is Too Short to Wash and Dry</title>
+			<itunes:title>Life is Too Short to Wash and Dry</itunes:title>
+			<pubDate>Wed, 02 Jul 2025 15:54:34 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/life-is-too-short-to-wash-and-dry]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/life-is-too-short-to-wash-and-dry]]></link>
+			<description><![CDATA[What I stop taking for granted on every vacation.
+
+Original Article: https://www.betonit.ai/p/life-is-too-short-to-wash-and-dry]]></description>
+			<enclosure length="2452710" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Life is Too Short to Wash and Dry.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What I stop taking for granted on every vacation.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The World&#39;s Worst Argument Against Austerity</title>
+			<itunes:title>The World&#39;s Worst Argument Against Austerity</itunes:title>
+			<pubDate>Tue, 01 Jul 2025 18:14:19 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/the-worlds-worst-argument-against]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/the-worlds-worst-argument-against]]></link>
+			<description><![CDATA[
+
+Original Article: https://www.betonit.ai/p/the-worlds-worst-argument-against]]></description>
+			<enclosure length="2305719" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The World&#39;s Worst Argument Against Austerity.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Human Capital Hara-Kiri</title>
+			<itunes:title>Human Capital Hara-Kiri</itunes:title>
+			<pubDate>Mon, 30 Jun 2025 15:00:52 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/human-capital-hara-kiri]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/human-capital-hara-kiri]]></link>
+			<description><![CDATA[Why most Japanese talent goes to waste.
+
+Original Article: https://www.betonit.ai/p/human-capital-hara-kiri]]></description>
+			<enclosure length="3786960" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Human Capital Hara-Kiri.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Why most Japanese talent goes to waste.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Apply to Cato University 2025</title>
+			<itunes:title>Apply to Cato University 2025</itunes:title>
+			<pubDate>Fri, 27 Jun 2025 15:02:58 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/apply-to-cato-university-2025]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/apply-to-cato-university-2025]]></link>
+			<description><![CDATA[And other forthcoming events
+
+Original Article: https://www.betonit.ai/p/apply-to-cato-university-2025]]></description>
+			<enclosure length="665982" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Apply to Cato University 2025.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[And other forthcoming events]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Hidden Constraints on HOT Lanes</title>
+			<itunes:title>The Hidden Constraints on HOT Lanes</itunes:title>
+			<pubDate>Thu, 26 Jun 2025 15:00:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/the-hidden-constraints-on-hot-lanes]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/the-hidden-constraints-on-hot-lanes]]></link>
+			<description><![CDATA[A guest post by Zixuan Ma
+
+Original Article: https://www.betonit.ai/p/the-hidden-constraints-on-hot-lanes]]></description>
+			<enclosure length="2361756" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/The Hidden Constraints on HOT Lanes.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A guest post by Zixuan Ma]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Permit Me One Maudlin Anecdote</title>
+			<itunes:title>Permit Me One Maudlin Anecdote</itunes:title>
+			<pubDate>Wed, 25 Jun 2025 15:01:09 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/permit-me-one-maudlin-anecdote]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/permit-me-one-maudlin-anecdote]]></link>
+			<description><![CDATA[Lessons from a park bench in the Champs de Mars
+
+Original Article: https://www.betonit.ai/p/permit-me-one-maudlin-anecdote]]></description>
+			<enclosure length="3062331" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Permit Me One Maudlin Anecdote.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Lessons from a park bench in the Champs de Mars]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Solipsism&gt;&gt;Determinism</title>
+			<itunes:title>Solipsism&gt;&gt;Determinism</itunes:title>
+			<pubDate>Tue, 24 Jun 2025 15:01:39 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/solipsismdeterminism]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/solipsismdeterminism]]></link>
+			<description><![CDATA[
+
+Original Article: https://www.betonit.ai/p/solipsismdeterminism]]></description>
+			<enclosure length="3270582" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Solipsism__Determinism.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Visualize Protectionist Luxembourg</title>
+			<itunes:title>Visualize Protectionist Luxembourg</itunes:title>
+			<pubDate>Mon, 23 Jun 2025 15:00:17 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/visualize-protectionist-luxembourg]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/visualize-protectionist-luxembourg]]></link>
+			<description><![CDATA[
+
+Original Article: https://www.betonit.ai/p/visualize-protectionist-luxembourg]]></description>
+			<enclosure length="3009126" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Visualize Protectionist Luxembourg.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Do Libertarians Barely Care About Liberty?</title>
+			<itunes:title>Do Libertarians Barely Care About Liberty?</itunes:title>
+			<pubDate>Thu, 19 Jun 2025 15:01:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/do-libertarians-barely-care-about]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/do-libertarians-barely-care-about]]></link>
+			<description><![CDATA[Flipping the mirror of hypocrisy
+
+Original Article: https://www.betonit.ai/p/do-libertarians-barely-care-about]]></description>
+			<enclosure length="2924877" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Do Libertarians Barely Care About Liberty_.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Flipping the mirror of hypocrisy]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>A Friendly Appeal to the Unconvinced</title>
+			<itunes:title>A Friendly Appeal to the Unconvinced</itunes:title>
+			<pubDate>Tue, 17 Jun 2025 15:00:27 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/a-friendly-appeal-to-the-unconvinced]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/a-friendly-appeal-to-the-unconvinced]]></link>
+			<description><![CDATA[An excerpt from the conclusion of *Unbeatable*
+
+Original Article: https://www.betonit.ai/p/a-friendly-appeal-to-the-unconvinced]]></description>
+			<enclosure length="3780615" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/A Friendly Appeal to the Unconvinced.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An excerpt from the conclusion of *Unbeatable*]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>*Pro-Market and Pro-Business*: The Keith Knight Interview</title>
+			<itunes:title>*Pro-Market and Pro-Business*: The Keith Knight Interview</itunes:title>
+			<pubDate>Thu, 12 Jun 2025 15:02:25 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/pro-market-and-pro-business-the-keith]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/pro-market-and-pro-business-the-keith]]></link>
+			<description><![CDATA[
+
+Original Article: https://www.betonit.ai/p/pro-market-and-pro-business-the-keith]]></description>
+			<enclosure length="163746" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/_Pro-Market and Pro-Business__ The Keith Knight Interview.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Markets Do the Good Things That Sound Bad</title>
+			<itunes:title>Markets Do the Good Things That Sound Bad</itunes:title>
+			<pubDate>Tue, 10 Jun 2025 15:00:24 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/markets-do-the-good-things-that-sound]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/markets-do-the-good-things-that-sound]]></link>
+			<description><![CDATA[
+
+Original Article: https://www.betonit.ai/p/markets-do-the-good-things-that-sound]]></description>
+			<enclosure length="2805291" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Markets Do the Good Things That Sound Bad.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>*Pro-Market and Pro-Business* AMA</title>
+			<itunes:title>*Pro-Market and Pro-Business* AMA</itunes:title>
+			<pubDate>Thu, 05 Jun 2025 15:02:09 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/pro-market-and-pro-business-ama]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/pro-market-and-pro-business-ama]]></link>
+			<description><![CDATA[Q&A on my new book
+
+Original Article: https://www.betonit.ai/p/pro-market-and-pro-business-ama]]></description>
+			<enclosure length="66525" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/_Pro-Market and Pro-Business_ AMA.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Q&A on my new book]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Milton Friedman’s Weird Abolition List</title>
+			<itunes:title>Milton Friedman’s Weird Abolition List</itunes:title>
+			<pubDate>Tue, 03 Jun 2025 15:00:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/milton-friedmans-weird-abolition]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/milton-friedmans-weird-abolition]]></link>
+			<description><![CDATA[An excerpt from Chapter 5 of *Unbeatable*
+
+Original Article: https://www.betonit.ai/p/milton-friedmans-weird-abolition]]></description>
+			<enclosure length="8076624" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Milton Friedman’s Weird Abolition List.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An excerpt from Chapter 5 of *Unbeatable*]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>You&#39;re Invited to Capla-Con 2025!</title>
+			<itunes:title>You&#39;re Invited to Capla-Con 2025!</itunes:title>
+			<pubDate>Thu, 29 May 2025 15:00:33 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/youre-invited-to-capla-con-2025]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/youre-invited-to-capla-con-2025]]></link>
+			<description><![CDATA[My annual festival of nerddom is July 12-13
+
+Original Article: https://www.betonit.ai/p/youre-invited-to-capla-con-2025]]></description>
+			<enclosure length="1675347" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/You&#39;re Invited to Capla-Con 2025!.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[My annual festival of nerddom is July 12-13]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Irrationality As the Fountainhead of Market Failure</title>
+			<itunes:title>Irrationality As the Fountainhead of Market Failure</itunes:title>
+			<pubDate>Tue, 27 May 2025 15:00:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/irrationality-as-the-fountainhead]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/irrationality-as-the-fountainhead]]></link>
+			<description><![CDATA[An excerpt from Chapter 4 of *Unbeatable*
+
+Original Article: https://www.betonit.ai/p/irrationality-as-the-fountainhead]]></description>
+			<enclosure length="2784516" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Irrationality As the Fountainhead of Market Failure.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An excerpt from Chapter 4 of *Unbeatable*]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>No Hay Almuerzo Gratis Podcast</title>
+			<itunes:title>No Hay Almuerzo Gratis Podcast</itunes:title>
+			<pubDate>Fri, 23 May 2025 15:01:09 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/no-hay-almuerzo-gratis-podcast]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/no-hay-almuerzo-gratis-podcast]]></link>
+			<description><![CDATA[Gracias a la IA, mi espa&#241;ol ahora es perfecto.
+
+Original Article: https://www.betonit.ai/p/no-hay-almuerzo-gratis-podcast]]></description>
+			<enclosure length="153930" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/No Hay Almuerzo Gratis Podcast.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Gracias a la IA, mi espa&#241;ol ahora es perfecto.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Excusing the Government</title>
+			<itunes:title>Excusing the Government</itunes:title>
+			<pubDate>Wed, 21 May 2025 15:00:45 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://www.betonit.ai/p/excusing-the-government]]></guid>
+			<link><![CDATA[https://www.betonit.ai/p/excusing-the-government]]></link>
+			<description><![CDATA[An excerpt from Chapter 3 of *Unbeatable*
+
+Original Article: https://www.betonit.ai/p/excusing-the-government]]></description>
+			<enclosure length="6867894" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Excusing the Government.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An excerpt from Chapter 3 of *Unbeatable*]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>What you can do about AI 2027</title>
+			<itunes:title>What you can do about AI 2027</itunes:title>
+			<pubDate>Sat, 28 Jun 2025 17:46:28 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/what-you-can-do-about-ai-2027]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/what-you-can-do-about-ai-2027]]></link>
+			<description><![CDATA[How to steer toward a positive AGI future
+
+Original Article: https://blog.ai-futures.org/p/what-you-can-do-about-ai-2027]]></description>
+			<enclosure length="5432571" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/What you can do about AI 2027.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[How to steer toward a positive AGI future]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Slow corporations as an intuition pump for AI R&amp;D automation</title>
+			<itunes:title>Slow corporations as an intuition pump for AI R&amp;D automation</itunes:title>
+			<pubDate>Mon, 19 May 2025 17:43:42 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/slow-corporations-as-an-intuition]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/slow-corporations-as-an-intuition]]></link>
+			<description><![CDATA[If slower employees would be much worse wouldn't automated faster ones be much better?
+
+Original Article: https://blog.ai-futures.org/p/slow-corporations-as-an-intuition]]></description>
+			<enclosure length="10886256" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Slow corporations as an intuition pump for AI R&amp;D automation.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[If slower employees would be much worse wouldn't automated faster]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Make The Prompt Public</title>
+			<itunes:title>Make The Prompt Public</itunes:title>
+			<pubDate>Sat, 17 May 2025 11:41:22 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/make-the-prompt-public]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/make-the-prompt-public]]></link>
+			<description><![CDATA[The right to know what an AI is doing
+
+Original Article: https://blog.ai-futures.org/p/make-the-prompt-public]]></description>
+			<enclosure length="5432499" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Make The Prompt Public.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The right to know what an AI is doing]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Making sense of OpenAI&#39;s models</title>
+			<itunes:title>Making sense of OpenAI&#39;s models</itunes:title>
+			<pubDate>Thu, 01 May 2025 16:13:05 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/making-sense-of-openais-models]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/making-sense-of-openais-models]]></link>
+			<description><![CDATA[Plus: GPT-5's secret identity
+
+Original Article: https://blog.ai-futures.org/p/making-sense-of-openais-models]]></description>
+			<enclosure length="9204759" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Making sense of OpenAI&#39;s models.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Plus: GPT-5's secret identity]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Why America Wins</title>
+			<itunes:title>Why America Wins</itunes:title>
+			<pubDate>Thu, 24 Apr 2025 05:51:15 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/why-america-wins]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/why-america-wins]]></link>
+			<description><![CDATA[In a word: compute
+
+Original Article: https://blog.ai-futures.org/p/why-america-wins]]></description>
+			<enclosure length="9428922" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Why America Wins.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In a word: compute]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>AI 2027: Media, Reactions, Criticism</title>
+			<itunes:title>AI 2027: Media, Reactions, Criticism</itunes:title>
+			<pubDate>Wed, 23 Apr 2025 04:48:16 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/ai-2027-media-reactions-criticism]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/ai-2027-media-reactions-criticism]]></link>
+			<description><![CDATA[We recognize our supporters and respond to our critics
+
+Original Article: https://blog.ai-futures.org/p/ai-2027-media-reactions-criticism]]></description>
+			<enclosure length="12138378" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/AI 2027_ Media, Reactions, Criticism.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We recognize our supporters and respond to our critics]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Training AGI in Secret would be Unsafe and Unethical</title>
+			<itunes:title>Training AGI in Secret would be Unsafe and Unethical</itunes:title>
+			<pubDate>Thu, 17 Apr 2025 23:54:33 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/training-agi-in-secret-would-be-unsafe]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/training-agi-in-secret-would-be-unsafe]]></link>
+			<description><![CDATA[Bad for loss of control risks, bad for concentration of power risks
+
+Original Article: https://blog.ai-futures.org/p/training-agi-in-secret-would-be-unsafe]]></description>
+			<enclosure length="5430003" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Training AGI in Secret would be Unsafe and Unethical.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Bad for loss of control risks, bad for concentration of]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Beyond The Last Horizon</title>
+			<itunes:title>Beyond The Last Horizon</itunes:title>
+			<pubDate>Fri, 11 Apr 2025 09:35:37 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/beyond-the-last-horizon]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/beyond-the-last-horizon]]></link>
+			<description><![CDATA[What are time horizons, and how do we use them in our forecast?
+
+Original Article: https://blog.ai-futures.org/p/beyond-the-last-horizon]]></description>
+			<enclosure length="11749125" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Beyond The Last Horizon.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What are time horizons, and how do we use them]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Our first project: AI 2027</title>
+			<itunes:title>Our first project: AI 2027</itunes:title>
+			<pubDate>Thu, 03 Apr 2025 16:17:42 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/our-first-project-ai-2027]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/our-first-project-ai-2027]]></link>
+			<description><![CDATA[What superintelligence looks like
+
+Original Article: https://blog.ai-futures.org/p/our-first-project-ai-2027]]></description>
+			<enclosure length="866112" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Our first project_ AI 2027.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[What superintelligence looks like]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Coming soon</title>
+			<itunes:title>Coming soon</itunes:title>
+			<pubDate>Fri, 06 Dec 2024 19:32:31 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://blog.ai-futures.org/p/coming-soon]]></guid>
+			<link><![CDATA[https://blog.ai-futures.org/p/coming-soon]]></link>
+			<description><![CDATA[This is AI Futures Project.
+
+Original Article: https://blog.ai-futures.org/p/coming-soon]]></description>
+			<enclosure length="29733" type="audio/mpeg" url="https://media.githubusercontent.com/media/winston-bosan/tech_audio_agg/refs/heads/main/audio/Coming soon.mp3" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This is AI Futures Project.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
